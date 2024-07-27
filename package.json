@@ -1,0 +1,17 @@
+{
+  "name": "bloggin-site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
